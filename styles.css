@@ -2,3 +2,25 @@
 :root{}
 .research-banner{width:100%;margin:46px 0 0;overflow:hidden;border:1px solid var(--line);border-radius:8px;background:#fff;box-shadow:0 12px 35px rgba(21,59,49,.08)}
 .research-banner img{display:block;width:100%;height:auto}
+
+.research-animation {
+  margin: 34px 0 0;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 12px 35px rgba(21, 59, 49, 0.08);
+}
+
+.research-animation img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.research-animation figcaption {
+  padding: 16px 20px;
+  color: var(--muted);
+  font-size: 14px;
+  border-top: 1px solid var(--line);
+}
