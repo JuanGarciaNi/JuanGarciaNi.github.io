@@ -26,3 +26,17 @@
   line-height: 1.4;
   border-top: 1px solid var(--line);
 }
+
+.research-photo {
+  width: 220px !important;
+  max-width: 220px !important;
+  margin: 25px 0 !important;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.research-photo img {
+  display: block;
+  width: 220px !important;
+  height: auto !important;
+}
